@@ -67,9 +67,9 @@ p {
     body{
         background-image: url(images/bg-pattern-desktop.svg);
         background-size:100%; 
-        
-          overflow-y: hidden; /* Hide vertical scrollbar */
-          overflow-x: hidden; /* Hide horizontal scrollbar */
+          overflow-y: hidden;
+          overflow-x: hidden; 
+         
         
     }
     .all{
@@ -78,7 +78,7 @@ p {
      .conteiner{
         display: flex;
         flex-direction: column;
-        margin: 100px 550px;
+        margin: 100px 500px;
        
      }
     .desktopimg{
